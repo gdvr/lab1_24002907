@@ -1,6 +1,5 @@
 echo "Start Script"
-echo "We can perform the git command"
-git add -A
-git commit -m "update notebook"
+git commit -a -m "update notebook"
 echo "Pushing data to remote server!!!"
+git push origin master
 echo "Finish Script"
