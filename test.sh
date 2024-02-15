@@ -1,4 +1,3 @@
 echo "Start Script"
-git commit -a -m "update notebook"
-git push
+ls
 echo "Finish Script"
